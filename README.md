@@ -93,6 +93,7 @@ Projects:
 - [Takeaway](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
 
 Technologies Used: Ruby, RSpec
+
 Learning: TDD, OOD & Ruby Class structure
 
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
@@ -100,6 +101,6 @@ Learning: TDD, OOD & Ruby Class structure
 Building Boris Bikes and an Airport.
 
 Projects:
-- [Boris Bikes]()
-- [Airport]()
+- [Boris Bikes](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
+- [Airport](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
 
