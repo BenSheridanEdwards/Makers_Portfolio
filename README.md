@@ -76,7 +76,7 @@ Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
 ## Week 3 - Ruby Local Server Projects - Battle & Rock, Paper, Scissors
 
-Pair-programming to build a pokemon-inspired battle game. Then Rock, Paper, Scissors on the weekend.
+Pair-programming to build a pokemon-inspired battle game. Rock, Paper, Scissors on the weekend.
 
 Projects: 
 - [Battle](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
@@ -88,10 +88,18 @@ Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
 Build Oystercard and a complete Takeaway ordering application
 
-Pair Project: [Oystercard](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
-Weekend Project: [Takeaway](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
+Projects:
+- [Oystercard](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
+- [Takeaway](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
 
 Technologies Used: Ruby, RSpec
+Learning: TDD, OOD & Ruby Class structure
 
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
+
+Building Boris Bikes and an Airport.
+
+Projects:
+- [Boris Bikes]()
+- [Airport]()
 
