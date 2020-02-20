@@ -17,7 +17,7 @@ Feature List:
 
 A week to practice technical coding challenges and prepare for interviews once we graduate.
 
-Projects: 
+Coding Challenges: 
 - [Bank](https://github.com/BenSheridanEdwards/Makers_Bank_TechTest_Ruby)
 - [Tic-Tac-Toe](https://github.com/BenSheridanEdwards/Makers_TIcTacToe_TechTest_Ruby)
 - [Fruit Machine](https://github.com/BenSheridanEdwards/Makers_Fruit_Machine_Ruby)
@@ -52,8 +52,16 @@ Technologies Used: Ruby, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 
 Build a Thermostat single-page JavaScript application using web APIs to display temperatures from across the globe.  
 
-[Thermostat](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
+Project: [Thermostat](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
 
 Technologies Used: JavaScript, jQuery, Jasmine 
 
-## Week 4 - 
+## Week 4 - Ruby Database Projects - Bookmark Manager & Chitter
+
+Build a Bookmark manager and clone of Twitter using Ruby and Postgres
+
+Projects: 
+- [Bookmark Manager](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
+- [Chitter](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
+
+Technologies Used: Ruby, Sinatra, PostGres
