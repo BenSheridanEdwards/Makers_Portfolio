@@ -78,8 +78,8 @@ Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
 Build a pokemon-inspired battle game and Rock, Paper, Scissors on the weekend.
 
-- Pair Project [Battle](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
-
+Projects: 
+- Pair Project: [Battle](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
 - Weekend Project: [Rock, Paper, Scissors](https://github.com/BenSheridanEdwards/rps-challenge)
 
 Technologies Used: Ruby, Sinatra, PostGres, RSpec
