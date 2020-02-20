@@ -98,7 +98,7 @@ Learning: TDD, OOD & Ruby Class structure
 
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
 
-### Pair Programming Project
+### Pair Programming Project - Boris Bikes
 
 Build a Boris Bikes application that can dock and release bikes. 
 
@@ -107,7 +107,7 @@ Build a Boris Bikes application that can dock and release bikes.
 - Technologies Used: Ruby, RSpec
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
-### Weekend Project
+### Weekend Project - Airport
 
 Build an Airport that can manage the takeoff and landing of planes in random weather conditions
 
