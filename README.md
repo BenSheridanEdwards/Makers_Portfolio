@@ -30,7 +30,7 @@ Team project to build a Facebook clone!
 
 Project: [Acebook - Team Luckerberg](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
 
-Technologies Used: Ruby, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 
 ## Week 7 - JavaScript Project - Notes Application
 
@@ -46,7 +46,7 @@ Build a clone of AirBnB
 
 Project: [MakersBnB](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
 
-Technologies Used: Ruby, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+Technologies Used:  Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 
 ## Week 5 - JavaScript Project - Thermostat
 
@@ -72,16 +72,28 @@ Projects:
 - [Bookmark Manager](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
 - [Chitter](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
 
-Technologies Used: Ruby, Sinatra, PostGres
+Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
 ## Week 3 - Ruby Local Server Projects - Battle & Rock, Paper, Scissors
 
 Build a pokemon-inspired battle game and Rock, Paper, Scissors on the weekend.
 
-Projects: 
+Pair Project: 
 - [Battle](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
+
+Weekend Project: 
 - [Rock, Paper, Scissors](https://github.com/BenSheridanEdwards/rps-challenge)
 
-Technologies Used: Ruby, Sinatra, PostGres
+Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
-## Week 
+## Week 2 - Ruby Projects - Oystercard & Takeaway
+
+Build Oystercard and a complete Takeaway ordering application
+
+Pair Project: [Oystercard](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
+Weekend Project: [Takeaway](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
+
+Technologies Used: Ruby, RSpec
+
+## Week 1 - Ruby Projects - Boris Bikes & Airport
+
