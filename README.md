@@ -103,7 +103,7 @@ Learning: TDD, OOD & Ruby Class structure
 Build a Boris Bikes application that can dock and release bikes. 
 
 #### Project Details: 
-- GitHub Repo: [Boris Bikes](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
+- [Boris Bikes (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
 - Technologies Used: Ruby, RSpec
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
@@ -112,6 +112,6 @@ Build a Boris Bikes application that can dock and release bikes.
 Build an Airport that can manage the takeoff and landing of planes in random weather conditions
 
 #### Project Details: 
-- GitHub Repo: [Airport](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
+- [Airport (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
 - Technologies Used: Ruby, RSpec
 - Skills Learnt: Reinforcement of fundamentals of Ruby class structure and test-driven development (TDD)
