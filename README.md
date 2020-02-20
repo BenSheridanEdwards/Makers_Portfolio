@@ -98,20 +98,20 @@ Learning: TDD, OOD & Ruby Class structure
 
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
 
-#### Pair Programming Project
+### Pair Programming Project
 
 Build a Boris Bikes application that can dock and release bikes. 
 
-Project Details: 
-- *GitHub Repo:* [Boris Bikes](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
+#### Project Details: 
+- GitHub Repo: [Boris Bikes](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
 - Technologies Used: Ruby, RSpec
-- Skills Learnt: 
+- Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
-#### Weekend Project
+### Weekend Project
 
-Build an Airport that can manage the landing and takeoff of planes
+Build an Airport that can manage the takeoff and landing of planes in random weather conditions
 
-Project Details: 
+#### Project Details: 
 - GitHub Repo: [Airport](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
 - Technologies Used: Ruby, RSpec
-- Skills Learnt: Fundmentals of Ruby class structure and test-driven development (TDD)
+- Skills Learnt: Reinforcement of fundamentals of Ruby class structure and test-driven development (TDD)
