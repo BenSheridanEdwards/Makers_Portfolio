@@ -1,4 +1,4 @@
-# Makers_Projects_Overview
+# Makers Projects Overview
 A table of contents to see all the projects I did whilst at Maker's Academy
 
 Anchor Links
@@ -54,7 +54,15 @@ Build a Thermostat single-page JavaScript application using web APIs to display 
 
 Project: [Thermostat](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
 
-Technologies Used: JavaScript, jQuery, Jasmine 
+Technologies Used: JavaScript, jQuery, Jasmine
+
+I also translated two of my earlier Ruby projects Airport & Fizzbuzz into JavaScript.
+
+Ruby => JavaScript Projects: 
+- [Airport](https://github.com/BenSheridanEdwards/Makers_Airport_JS)
+- [Fizzbuzz](https://github.com/BenSheridanEdwards/Makers_FizzBuzz_JS)
+
+Technologies Used: JavaScript, Jasmine
 
 ## Week 4 - Ruby Database Projects - Bookmark Manager & Chitter
 
@@ -65,3 +73,15 @@ Projects:
 - [Chitter](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
 
 Technologies Used: Ruby, Sinatra, PostGres
+
+## Week 3 - Ruby Local Server Projects - Battle & Rock, Paper, Scissors
+
+Build a pokemon-inspired battle game and Rock, Paper, Scissors on the weekend.
+
+Projects: 
+- [Battle](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
+- [Rock, Paper, Scissors](https://github.com/BenSheridanEdwards/rps-challenge)
+
+Technologies Used: Ruby, Sinatra, PostGres
+
+## Week 
