@@ -1,6 +1,7 @@
-# Makers Projects Guide 
+# Makers Projects Guide
+### Ben Sheridan-Edwards
 
-A guide to all the projects I completed whilst at Maker's Academy.
+Project Table of Contents:
 
 [Week 1 - Ruby - Boris Bikes & Airport](#Week-1)<br>
 [Week 2 - Ruby - Oystercard & Takeaway](#Week-2)<br>
