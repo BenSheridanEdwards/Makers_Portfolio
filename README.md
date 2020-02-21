@@ -71,7 +71,9 @@ Ruby => JavaScript Projects:
 
 Technologies Used: JavaScript, Jasmine
 
-## <a name="Week-4">Week 4 - Ruby Projects - Bookmark Manager & Chitter</a>
+<a name="Week-4"><br></a>
+
+## Week 4 - Ruby Projects - Bookmark Manager & Chitter
 
 ### Pair Programming Project - Bookmark Manager
 
