@@ -1,9 +1,12 @@
 # Makers Projects Overview
 A table of contents to see all the projects I did whilst at Maker's Academy
 
-Anchor Links
+[Week 1 - Ruby - Boris Bikes & Airport](#Week-1)
+[Week 2 - Ruby - Oystercard & Takeaway](#Week-2)
 
-[Week 1 - Ruby - Boris Bikes & Airport](#Week-1) 
+
+---
+
 
 ## Week 11 & 12 - Final Project - Paladin's Path (Team Game)
 
@@ -86,7 +89,7 @@ Projects:
 
 Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
-## Week 2 - Ruby Projects - Oystercard & Takeaway
+## <a name="Week-2">Week 2 - Ruby Projects - Oystercard & Takeaway</a>
 
 ### Pair Programming Project - Oystercard
 
@@ -105,8 +108,6 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 - [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
 - Technologies Used: Ruby, RSpec, Twilio
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
-
-
 
 ## <a name="Week-1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
 
