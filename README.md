@@ -1,8 +1,8 @@
 # Makers Projects Overview
 A table of contents to see all the projects I did whilst at Maker's Academy
 
-[Week 1 - Ruby - Boris Bikes & Airport](#Week-1)
-[Week 2 - Ruby - Oystercard & Takeaway](#Week-2)
+[Week 1 - Ruby - Boris Bikes & Airport](#Week-1)<br>
+[Week 2 - Ruby - Oystercard & Takeaway](#Week-2)<br>
 
 
 ---
@@ -108,6 +108,8 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 - [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
 - Technologies Used: Ruby, RSpec, Twilio
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
+
+<br>
 
 ## <a name="Week-1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
 
