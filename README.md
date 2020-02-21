@@ -3,6 +3,8 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 
 Anchor Links
 
+[Week 1](#Week 1) 
+
 ## Week 11 & 12 - Final Project - Paladin's Path (Team Game)
 
 Project: [Paladin's Path](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.md)
@@ -104,8 +106,9 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 - Technologies Used: Ruby, RSpec, Twilio
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
----
-## Week 1 - Ruby Projects - Boris Bikes & Airport
+
+
+## <a name="Week 1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
 
 ### Pair Programming Project - Boris Bikes
 
