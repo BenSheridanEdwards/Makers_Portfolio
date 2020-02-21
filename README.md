@@ -1,4 +1,4 @@
-# Makers Projects Overview
+# Makers Projects Guide 
 
 A guide to all the projects I completed whilst at Maker's Academy.
 
