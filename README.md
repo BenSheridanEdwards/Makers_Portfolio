@@ -25,6 +25,13 @@ Final project to build an open-world battle game using agile team methodologies.
 - [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
 - Technologies Used: *[Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++*
 - Skills Learnt: 
+  * How to clearly plan the features we wanted to build, but be flexible in our plan in line with agile principles
+  * How to develop a program using an entirely new technology utilising the coding principles learnt whilst at Makers
+  * How to solve problems as a team, and effectively divide tasks based on priority
+  * How to gain visablity and effectively debug
+  * To use automated testing frameworks to test user behaviour
+  * To focus on the user experience and deliver the best possible product in the time given
+  
 
 <a name="Week-10"><br></a>
 
@@ -52,6 +59,7 @@ Build a Facebook clone in an agile development team.
 - Technologies Used: *Ruby, Rails, Sinatra, Capybara, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
   * To apply the TDD process in building an application using the rails framework
+  * How to showcase our project in product meetings in terms of features, code quality, test coverage, and clearly explain our thought process and our next steps.
   * To work effective within a team seeking to ensure high test coverage, good distribution of work, and great overall quality of code, whilst maintaining up-to-date documentation
   * How to setup Travis CI and Heroku to deploy code to production once it's merged into the master branch
 
