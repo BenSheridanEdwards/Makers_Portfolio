@@ -76,8 +76,11 @@ Build a clone of AirBnB
 
 #### Project Details: 
 - [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
-- Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+- Technologies Used: *Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
+  * How to effectively work in an agile development team with daily stand-ups and retrospectives
+  * How to manage my git workflow with branches, pull requests, reviews and merging onto the master branch
+  * Give and receive meaningful feedback during each code review
   
 <a name="Week-5"><br></a>
 ## Week 5 - JavaScript Project - Thermostat & Bowling 
