@@ -53,11 +53,17 @@ Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Herok
 
 ## Week 7 - JavaScript Project - Notebook
 
-Build a notes app using JavaScript 
+Build a notebook app
 
-Project: [Notes App](https://github.com/BenSheridanEdwards/Makers_Notes_JS)
+### Pair Programming Project - Notebook
 
-Technologies Used: JavaScript and my own testing framework inspired by RSpec.
+#### Project Details: 
+- [Notes App (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Notes_JS)
+- Technologies Used: JavaScript
+- Skills Learnt: 
+  * How to build your own testing framework from scratch, inspired by RSpec. 
+  * ...
+  * ...
 
 <a name="Week-6"><br></a>
 
@@ -70,8 +76,11 @@ Build a clone of AirBnB
 #### Project Details: 
 - [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
 - Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
-- Skills Learnt: ...
-
+- Skills Learnt: 
+  * ...
+  * ...
+  * ...
+  
 <a name="Week-5"><br></a>
 
 ## Week 5 - JavaScript Project - Thermostat & Bowling 
@@ -83,7 +92,10 @@ Build a Thermostat in the form of a single-page javascript application.
 #### Project Details: 
 - [[Thermostat (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
 - Technologies Used: JavaScript, jQuery, Jasmine
-- Skills Learnt: How to build a single page JavaScript application from scratch. How to use web APIs to display temperatures from around the globe.
+- Skills Learnt: 
+  * How to build a single page JavaScript application from scratch
+  * How to use web APIs to display temperatures from around the globe.
+  * ...
 
 ### Weekend Project - Bowling
 
