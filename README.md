@@ -6,10 +6,15 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 [Week 3 - Ruby - Battle & Rock, Paper, Scissors](#Week-3)<br>
 [Week 4 - Ruby - Bookmark Manager & Chitter](#Week-4)<br>
 [Week 5 - JavaScript  - Thermostat & Bowling](#Week-5)<br>
-
+[Week 6 - Ruby - MakersBnB (Group Project)](#Week-6)<br>
+[Week 7 - JavaScript  - Notebook](#Week-7)<br>
+[Week 8 & 9 - Ruby & JavaScript  - Acebook (Group Project)](#Week-8/9)<br>
+[Week 10 - Technical Testing Week](#Week-10)<br>
+[Week 11 & 12 - Unreal Game Engine / C++ - Paladin's Path (Final Project)](#Week-11/12)<br>
 
 ---
 
+<a name="Week-11/12"><br></a>
 
 ## Week 11 & 12 - Final Project - Paladin's Path (Team Game)
 
@@ -20,6 +25,8 @@ A open-world battle game where a magic paladin knight fights through the element
 Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
 
 Feature List:
+
+<a name="Week-10"><br></a>
 
 ## Week 10 - Solo Tech Test Preparation
 
@@ -32,6 +39,8 @@ Coding Challenges:
 
 Technologies Used: Ruby & JavaScript
 
+<a name="Week-8/9"><br></a>
+
 ## Week 8 & 9 - Group Project - Acebook (Team Luckerberg)
 
 Team project to build a Facebook clone! 
@@ -40,13 +49,17 @@ Project: [Acebook - Team Luckerberg](https://github.com/BenSheridanEdwards/Maker
 
 Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 
-## Week 7 - JavaScript Project - Notes Application
+<a name="Week-7"><br></a>
+
+## Week 7 - JavaScript Project - Notebook
 
 Build a notes app using JavaScript 
 
 Project: [Notes App](https://github.com/BenSheridanEdwards/Makers_Notes_JS)
 
 Technologies Used: JavaScript and my own testing framework inspired by RSpec.
+
+<a name="Week-6"><br></a>
 
 ## Week 6 - Group Project - MakersBnB 
 
