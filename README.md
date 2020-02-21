@@ -143,8 +143,11 @@ Build a pokemon-inspired battle game
 
 #### Project Details: 
 - [Battle (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
-- Technologies Used: Ruby, RSpec, Sinatra
-- Skills Learnt: ...
+- Technologies Used: Ruby, RSpec, Sinatra, CSS, HTML
+- Skills Learnt:
+  * How to build a simple web application
+  * How to follow an effective debugging process
+  * Basics of the web, in terms of request and response cycles between clients and servers 
 
 ### Weekend Project - Rock, Paper, Scissors
 
@@ -152,8 +155,11 @@ Build the classic Rock, Paper, Scissors game!
 
 #### Project Details: 
 - [Rock, Paper, Scissors (GitHub Respository)](https://github.com/BenSheridanEdwards/rps-challenge)
-- Technologies Used: Ruby, RSpec, Sinatra
-- Skills Learnt: ...
+- Technologies Used: Ruby, RSpec, Sinatra, CSS, HTML
+- Skills Learnt: 
+  * The MVC pattern
+  * Testing user interaction and visual output
+  * How to build a game that can be played by two players
 
 <a name="Week-2"><br></a>
 ## Week 2 - Ruby Projects - Oystercard & Takeaway
@@ -165,8 +171,11 @@ Build Oystercard and a complete Takeaway ordering application
 #### Project Details: 
 - [Oystercard (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
 - Technologies Used: Ruby, RSpec
-- Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
-
+- Skills Learnt: 
+  * Apply basic object-oriented principles like encapsulation and single-responsibility.
+  * Separate classes whilst maintaining test coverage.
+  * Unit test classes in isolation using mocking
+  
 ### Weekend Project - Takeaway
 
 Build a complete Takeaway ordering application with Twilio to deliver a confirmation text message. 
@@ -174,7 +183,10 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 #### Project Details: 
 - [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
 - Technologies Used: Ruby, RSpec, Twilio
-- Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
+- Skills Learnt: 
+  * How to plan my programs structure to separate concerns and ensure single responsibility
+  * How to incorporate Ruby gems
+  * The importance of testing behaviour, rather than state
 
 <a name="Week-1"><br></a>
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
@@ -186,7 +198,10 @@ Build a Boris Bikes application that can dock and release bikes.
 #### Project Details: 
 - [Boris Bikes (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
 - Technologies Used: Ruby, RSpec
-- Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
+- Skills Learnt: 
+  * Fundamentals of Ruby class structure 
+  * Test-drive a simple program using objects and methods
+  * Pair-program with the driver-navigator style
 
 ### Weekend Project - Airport
 
@@ -195,4 +210,7 @@ Build an Airport that can manage the takeoff and landing of planes in random wea
 #### Project Details: 
 - [Airport (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
 - Technologies Used: Ruby, RSpec
-- Skills Learnt: Reinforcement of fundamentals of Ruby class structure and test-driven development (TDD)
+- Skills Learnt: 
+  * Reinforcement of fundamentals of Ruby class structure
+  * Build a program using TDD
+  * Use an effective debugging process to gain visability
