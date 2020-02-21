@@ -122,8 +122,11 @@ Build a bookmark manager with a database
 
 #### Project Details: 
 - [Bookmark Manager (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
-- Technologies Used: Ruby, RSpec, Sinatra, Postgres
-- Skills Learnt: ...
+- Technologies Used: Ruby, RSpec, Sinatra, Postgres, CSS, HTML
+- Skills Learnt:
+  * Agile development processes
+  * How to build a simple web application with a database
+  * Debug database applications
 
 ### Weekend Project - Chitter
 
@@ -131,9 +134,11 @@ Build a clone of Twitter
 
 #### Project Details: 
 - [Chitter (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
-- Technologies Used: Ruby, RSpec, Sinatra, Postgres
-- Skills Learnt: ...
-
+- Technologies Used: Ruby, RSpec, Sinatra, Postgres, CSS, HTML
+- Skills Learnt: 
+  * How to implement a object relational mapper as a database interface
+  * Implementing user sign up, sign in, and authentication using bCrypt
+  
 <a name="Week-3"><br></a>
 ## Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors
 
@@ -170,7 +175,7 @@ Build Oystercard and a complete Takeaway ordering application
 
 #### Project Details: 
 - [Oystercard (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
-- Technologies Used: Ruby, RSpec
+- Technologies Used: *Ruby, RSpec*
 - Skills Learnt: 
   * Apply basic object-oriented principles like encapsulation and single-responsibility.
   * Separate classes whilst maintaining test coverage.
@@ -182,7 +187,7 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 
 #### Project Details: 
 - [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
-- Technologies Used: Ruby, RSpec, Twilio
+- Technologies Used: *Ruby, RSpec, Twilio*
 - Skills Learnt: 
   * How to plan my programs structure to separate concerns and ensure single responsibility
   * How to incorporate Ruby gems
@@ -197,7 +202,7 @@ Build a Boris Bikes application that can dock and release bikes.
 
 #### Project Details: 
 - [Boris Bikes (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
-- Technologies Used: Ruby, RSpec
+- Technologies Used: *Ruby, RSpec*
 - Skills Learnt: 
   * Fundamentals of Ruby class structure 
   * Test-drive a simple program using objects and methods
@@ -209,7 +214,7 @@ Build an Airport that can manage the takeoff and landing of planes in random wea
 
 #### Project Details: 
 - [Airport (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
-- Technologies Used: Ruby, RSpec
+- Technologies Used: *Ruby, RSpec*
 - Skills Learnt: 
   * Reinforcement of fundamentals of Ruby class structure
   * Build a program using TDD
