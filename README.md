@@ -49,8 +49,11 @@ Team project to build a Facebook clone
 
 #### Project Details: 
 - [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
-- Technologies Used: *Ruby, Rails, Sinatra, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
+- Technologies Used: *Ruby, Rails, Sinatra, Capybara, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
+  * To apply the TDD process in building an application using the rails framework
+  * To work effective within a team seeking to ensure high test coverage, good distribution of work, and great overall quality of code, whilst maintaining up-to-date documentation
+  * How to setup Travis CI and Heroku to deploy code to production once it's merged into the master branch
 
 <a name="Week-7"><br></a>
 
