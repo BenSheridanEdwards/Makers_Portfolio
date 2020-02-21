@@ -86,15 +86,25 @@ Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
 ## Week 2 - Ruby Projects - Oystercard & Takeaway
 
+### Pair Programming Project - Oystercard
+
 Build Oystercard and a complete Takeaway ordering application
 
-Projects:
-- [Oystercard](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
-- [Takeaway](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
+#### Project Details: 
+- [Oystercard (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
+- Technologies Used: Ruby, RSpec
+- Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
-Technologies Used: Ruby, RSpec
+### Weekend Project - Takeaway
 
-Learning: TDD, OOD & Ruby Class structure
+Build a complete Takeaway ordering application with Twilio to deliver a confirmation text message. 
+
+#### Project Details: 
+- [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
+- Technologies Used: Ruby, RSpec, Twilio
+- Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
+
+---
 
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
 
