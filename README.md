@@ -5,6 +5,7 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 [Week 2 - Ruby - Oystercard & Takeaway](#Week-2)<br>
 [Week 3 - Ruby - Battle & Rock, Paper, Scissors](#Week-3)<br>
 [Week 4 - Ruby - Bookmark Manager & Chitter](#Week-4)<br>
+[Week 5 - JavaScript  - Thermostat & Bowling](#Week-5)<br>
 
 
 ---
@@ -55,21 +56,37 @@ Project: [MakersBnB](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Grou
 
 Technologies Used:  Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 
-## Week 5 - JavaScript Project - Thermostat
+<a name="Week-5"><br></a>
 
-Build a Thermostat single-page JavaScript application using web APIs to display temperatures from across the globe.  
+## Week 5 - JavaScript Project - Thermostat & Bowling 
 
-Project: [Thermostat](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
+### Pair Programming Project - Thermostat
 
-Technologies Used: JavaScript, jQuery, Jasmine
+Build a Thermostat in the form of a single-page javascript application.
 
-I also translated two of my earlier Ruby projects Airport & Fizzbuzz into JavaScript.
+#### Project Details: 
+- [[Thermostat (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
+- Technologies Used: JavaScript, jQuery, Jasmine
+- Skills Learnt: How to build a single page JavaScript application from scratch. How to use web APIs to display temperatures from around the globe.
 
-Ruby => JavaScript Projects: 
-- [Airport](https://github.com/BenSheridanEdwards/Makers_Airport_JS)
-- [Fizzbuzz](https://github.com/BenSheridanEdwards/Makers_FizzBuzz_JS)
+### Weekend Project - Bowling
 
-Technologies Used: JavaScript, Jasmine
+Build a game of 10-pin Bowling.
+
+#### Project Details: 
+- [Bowling (GitHub Respository)](https://github.com/BenSheridanEdwards/bowling-challenge)
+- Technologies Used: JavaScript, Jasmine
+- Skills Learnt: Reinforcement of how to TDD a JavaScript application. 
+
+### Side Projects - Airport & FizzBuzz
+
+I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into JavaScript.
+
+#### Project Details: 
+- [Airport (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Airport_JS)
+- [Fizzbuzz (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_FizzBuzz_JS)
+- Technologies Used: JavaScript, Jasmine
+- Skills Learnt: How to translate projects to new languages, JavaScript TDD.
 
 <a name="Week-4"><br></a>
 
