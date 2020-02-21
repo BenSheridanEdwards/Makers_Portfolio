@@ -16,7 +16,7 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 
 <a name="Week-11/12"><br></a>
 
-## Week 11 & 12 - Final Project - Paladin's Path (Team Game)
+## Week 11 & 12 - Final Project - Paladin's Path
 
 Project: [Paladin's Path](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.md)
 
@@ -28,7 +28,7 @@ Feature List:
 
 <a name="Week-10"><br></a>
 
-## Week 10 - Solo Tech Test Preparation
+## Week 10 - Technical Testing Week
 
 A week to practice technical coding challenges and prepare for interviews once we graduate.
 
@@ -63,11 +63,14 @@ Technologies Used: JavaScript and my own testing framework inspired by RSpec.
 
 ## Week 6 - Group Project - MakersBnB 
 
+### Group Project - MakersBnB
+
 Build a clone of AirBnB
 
-Project: [MakersBnB](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
-
-Technologies Used:  Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+#### Project Details: 
+- [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
+- Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+- Skills Learnt: ...
 
 <a name="Week-5"><br></a>
 
