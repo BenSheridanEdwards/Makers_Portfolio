@@ -93,9 +93,9 @@ Build a clone of Twitter
 - Technologies Used: Ruby, RSpec, Sinatra, Postgres
 - Skills Learnt: ...
 
-<br>
+<a name="Week-3"><br></a>
 
-## <a name="Week-3">Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors</a>
+## Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors
 
 ### Pair Programming Project - Battle
 
@@ -115,9 +115,9 @@ Build the classic Rock, Paper, Scissors game!
 - Technologies Used: Ruby, RSpec, Sinatra
 - Skills Learnt: ...
 
-<br>
+<a name="Week-2"><br></a>
 
-## <a name="Week-2">Week 2 - Ruby Projects - Oystercard & Takeaway</a>
+## Week 2 - Ruby Projects - Oystercard & Takeaway
 
 ### Pair Programming Project - Oystercard
 
@@ -137,9 +137,9 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 - Technologies Used: Ruby, RSpec, Twilio
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
-<br>
+<a name="Week-1"><br></a>
 
-## <a name="Week-1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
+## Week 1 - Ruby Projects - Boris Bikes & Airport
 
 ### Pair Programming Project - Boris Bikes
 
