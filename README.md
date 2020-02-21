@@ -65,6 +65,7 @@ Build a notebook app
 - Technologies Used: JavaScript
 - Skills Learnt: 
   * How to build your own testing framework from scratch, inspired by RSpec. 
+  * Encapsulation with the constructor and prototype pattern
 
 <a name="Week-6"><br></a>
 ## Week 6 - Group Project - MakersBnB 
@@ -87,10 +88,11 @@ Build a Thermostat in the form of a single-page javascript application.
 
 #### Project Details: 
 - [[Thermostat (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
-- Technologies Used: JavaScript, jQuery, Jasmine
+- Technologies Used: *JavaScript, jQuery, Jasmine*
 - Skills Learnt: 
-  * How to build a single page JavaScript application from scratch
-  * How to use web APIs to display temperatures from around the globe.
+  * How to build a front-end JavaScript application
+  * How to follow an effective process for learning a new language
+  * How to use web APIs to display temperatures from around the globe
 
 ### Weekend Project - Bowling
 
@@ -98,9 +100,11 @@ Build a game of 10-pin Bowling.
 
 #### Project Details: 
 - [Bowling (GitHub Respository)](https://github.com/BenSheridanEdwards/bowling-challenge)
-- Technologies Used: JavaScript, Jasmine
-- Skills Learnt: Reinforcement of how to TDD a JavaScript application. 
-
+- Technologies Used: *JavaScript, Jasmine*
+- Skills Learnt: 
+  * How to build a complex game using JavaScript
+  * How to effectively encapsulate behaviour and gain visability in JavaScript
+  
 ### Side Projects - Airport & FizzBuzz
 
 I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into JavaScript.
@@ -108,10 +112,10 @@ I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into Java
 #### Project Details: 
 - [Airport (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Airport_JS)
 - [Fizzbuzz (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_FizzBuzz_JS)
-- Technologies Used: JavaScript, Jasmine
+- Technologies Used: *JavaScript, Jasmine*
 - Skills Learnt: 
   * How to translate projects to new languages
-  * Test-drive the development of a JavaScript Application
+  * Test-drive the development of a JavaScript Application from Ruby
 
 <a name="Week-4"><br></a>
 ## Week 4 - Ruby Projects - Bookmark Manager & Chitter
@@ -122,7 +126,7 @@ Build a bookmark manager with a database
 
 #### Project Details: 
 - [Bookmark Manager (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
-- Technologies Used: Ruby, RSpec, Sinatra, Postgres, CSS, HTML
+- Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
 - Skills Learnt:
   * Agile development processes
   * How to build a simple web application with a database
@@ -134,7 +138,7 @@ Build a clone of Twitter
 
 #### Project Details: 
 - [Chitter (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
-- Technologies Used: Ruby, RSpec, Sinatra, Postgres, CSS, HTML
+- Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML, Travis CI*
 - Skills Learnt: 
   * How to implement a object relational mapper as a database interface
   * Implementing user sign up, sign in, and authentication using bCrypt
@@ -148,7 +152,7 @@ Build a pokemon-inspired battle game
 
 #### Project Details: 
 - [Battle (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
-- Technologies Used: Ruby, RSpec, Sinatra, CSS, HTML
+- Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML*
 - Skills Learnt:
   * How to build a simple web application
   * How to follow an effective debugging process
@@ -160,7 +164,7 @@ Build the classic Rock, Paper, Scissors game!
 
 #### Project Details: 
 - [Rock, Paper, Scissors (GitHub Respository)](https://github.com/BenSheridanEdwards/rps-challenge)
-- Technologies Used: Ruby, RSpec, Sinatra, CSS, HTML
+- Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML, Travis CI*
 - Skills Learnt: 
   * The MVC pattern
   * Testing user interaction and visual output
@@ -187,7 +191,7 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 
 #### Project Details: 
 - [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
-- Technologies Used: *Ruby, RSpec, Twilio*
+- Technologies Used: *Ruby, RSpec, Twilio, Travis CI*
 - Skills Learnt: 
   * How to plan my programs structure to separate concerns and ensure single responsibility
   * How to incorporate Ruby gems
