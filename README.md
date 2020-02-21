@@ -66,7 +66,6 @@ Build a notebook app
   * How to build your own testing framework from scratch, inspired by RSpec. 
 
 <a name="Week-6"><br></a>
-
 ## Week 6 - Group Project - MakersBnB 
 
 ### Group Project - MakersBnB
@@ -79,7 +78,6 @@ Build a clone of AirBnB
 - Skills Learnt: 
   
 <a name="Week-5"><br></a>
-
 ## Week 5 - JavaScript Project - Thermostat & Bowling 
 
 ### Pair Programming Project - Thermostat
@@ -115,7 +113,6 @@ I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into Java
   * Test-drive the development of a JavaScript Application
 
 <a name="Week-4"><br></a>
-
 ## Week 4 - Ruby Projects - Bookmark Manager & Chitter
 
 ### Pair Programming Project - Bookmark Manager
@@ -137,7 +134,6 @@ Build a clone of Twitter
 - Skills Learnt: ...
 
 <a name="Week-3"><br></a>
-
 ## Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors
 
 ### Pair Programming Project - Battle
@@ -159,7 +155,6 @@ Build the classic Rock, Paper, Scissors game!
 - Skills Learnt: ...
 
 <a name="Week-2"><br></a>
-
 ## Week 2 - Ruby Projects - Oystercard & Takeaway
 
 ### Pair Programming Project - Oystercard
@@ -181,7 +176,6 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
 <a name="Week-1"><br></a>
-
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
 
 ### Pair Programming Project - Boris Bikes
