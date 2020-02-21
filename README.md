@@ -3,7 +3,7 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 
 Anchor Links
 
-[Week 1](#Week 1) 
+[Week 1](#Week-1) 
 
 ## Week 11 & 12 - Final Project - Paladin's Path (Team Game)
 
@@ -108,7 +108,7 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 
 
 
-## <a name="Week 1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
+## <a name="Week-1">Week 1 - Ruby Projects - Boris Bikes & Airport</a>
 
 ### Pair Programming Project - Boris Bikes
 
