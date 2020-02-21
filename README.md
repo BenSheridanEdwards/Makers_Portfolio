@@ -81,13 +81,25 @@ Technologies Used: Ruby, Sinatra, PostGres, RSpec
 
 ## Week 3 - Ruby Local Server Projects - Battle & Rock, Paper, Scissors
 
-Pair-programming to build a pokemon-inspired battle game. Rock, Paper, Scissors on the weekend.
+### Pair Programming Project - Battle
 
-Projects: 
-- [Battle](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
-- [Rock, Paper, Scissors](https://github.com/BenSheridanEdwards/rps-challenge)
+Build a pokemon-inspired battle game
 
-Technologies Used: Ruby, Sinatra, PostGres, RSpec
+#### Project Details: 
+- [Battle (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
+- Technologies Used: Ruby, RSpec, Sinatra
+- Skills Learnt: ...
+
+### Weekend Project - Rock, Paper, Scissors
+
+Build the classic Rock, Paper, Scissors game!
+
+#### Project Details: 
+- [Rock, Paper, Scissors (GitHub Respository)](https://github.com/BenSheridanEdwards/rps-challenge)
+- Technologies Used: Ruby, RSpec, Sinatra
+- Skills Learnt: ...
+
+<br>
 
 ## <a name="Week-2">Week 2 - Ruby Projects - Oystercard & Takeaway</a>
 
