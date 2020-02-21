@@ -3,7 +3,7 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 
 Anchor Links
 
-[Week 1](#Week-1) 
+[Week 1 - Ruby - Boris Bikes & Airport](#Week-1) 
 
 ## Week 11 & 12 - Final Project - Paladin's Path (Team Game)
 
