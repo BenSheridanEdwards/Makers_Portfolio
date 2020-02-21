@@ -56,7 +56,7 @@ Team project to build a Facebook clone
 
 ## Week 7 - JavaScript Project - Notebook
 
-Build a notebook app
+Build a notebook app using only pure JavaScript
 
 ### Pair Programming Project - Notebook
 
@@ -66,6 +66,7 @@ Build a notebook app
 - Skills Learnt: 
   * How to build your own testing framework from scratch, inspired by RSpec. 
   * Encapsulation with the constructor and prototype pattern
+  * JavaScript asynchronous behaviour, events, and event handlers
 
 <a name="Week-6"><br></a>
 ## Week 6 - Group Project - MakersBnB 
