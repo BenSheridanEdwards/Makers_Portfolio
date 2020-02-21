@@ -8,8 +8,8 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 [Week 5 - JavaScript  - Thermostat & Bowling](#Week-5)<br>
 [Week 6 - Ruby - MakersBnB (Group Project)](#Week-6)<br>
 [Week 7 - JavaScript  - Notebook](#Week-7)<br>
-[Week 8 & 9 - Ruby & JavaScript  - Acebook (Group Project)](#Week-8/9)<br>
-[Week 10 - Technical Testing Week](#Week-10)<br>
+[Week 8 & 9 - Ruby / JavaScript  - Acebook (Group Project)](#Week-8/9)<br>
+[Week 10 - Ruby / JavaScript - Technical Testing Week](#Week-10)<br>
 [Week 11 & 12 - Unreal Game Engine / C++ - Paladin's Path (Final Project)](#Week-11/12)<br>
 
 ---
