@@ -23,7 +23,7 @@ Final project where we decided to build an open-world battle game.
 
 #### Project Details: 
 - [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
-- Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
+- Technologies Used: *[Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++*
 - Skills Learnt: 
 
 <a name="Week-10"><br></a>
@@ -49,7 +49,7 @@ Team project to build a Facebook clone
 
 #### Project Details: 
 - [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
-- Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+- Technologies Used: *Ruby, Rails, Sinatra, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
 
 <a name="Week-7"><br></a>
@@ -62,7 +62,7 @@ Build a notebook app
 
 #### Project Details: 
 - [Notes App (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Notes_JS)
-- Technologies Used: JavaScript
+- Technologies Used: *JavaScript, CSS, HTML*
 - Skills Learnt: 
   * How to build your own testing framework from scratch, inspired by RSpec. 
   * Encapsulation with the constructor and prototype pattern
@@ -72,11 +72,11 @@ Build a notebook app
 
 ### Group Project - MakersBnB
 
-Build a clone of AirBnB
+Build a clone of AirBnB in an agile development team
 
 #### Project Details: 
 - [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
-- Technologies Used: *Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku*
+- Technologies Used: *Ruby, Rails, Sinatra, PostGres, CSS, HTML Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
   * Turning a specification into user stories
   * How to focus on delivering a MVP first
@@ -93,7 +93,7 @@ Build a Thermostat in the form of a single-page javascript application.
 
 #### Project Details: 
 - [[Thermostat (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Thermostat_JS)
-- Technologies Used: *JavaScript, jQuery, Jasmine*
+- Technologies Used: *JavaScript, jQuery, Jasmine, CSS , HTML*
 - Skills Learnt: 
   * How to build a front-end JavaScript application
   * How to follow an effective process for learning a new language
