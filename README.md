@@ -12,7 +12,7 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 [Week 10 - Ruby / JavaScript - Technical Testing Week](#Week-10)<br>
 [Week 11 & 12 - Unreal Game Engine / C++ - Paladin's Path (Final Project)](#Week-11/12)<br>
 
-<a name="Week-11/12"><br></a>
+<a name="Week-11/12"></a>
 
 ## Week 11 & 12 - Final Project - Paladin's Path
 
