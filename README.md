@@ -1,5 +1,6 @@
 # Makers Projects Overview
-A table of contents to see all the projects I did whilst at Maker's Academy
+
+A guide to all the projects I completed whilst at Maker's Academy.
 
 [Week 1 - Ruby - Boris Bikes & Airport](#Week-1)<br>
 [Week 2 - Ruby - Oystercard & Takeaway](#Week-2)<br>
