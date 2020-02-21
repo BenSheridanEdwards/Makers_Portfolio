@@ -3,6 +3,8 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 
 [Week 1 - Ruby - Boris Bikes & Airport](#Week-1)<br>
 [Week 2 - Ruby - Oystercard & Takeaway](#Week-2)<br>
+[Week 3 - Ruby - Battle & Rock, Paper, Scissors](#Week-3)<br>
+[Week 4 - Ruby - Bookmark Manager & Chitter](#Week-4)<br>
 
 
 ---
@@ -69,17 +71,29 @@ Ruby => JavaScript Projects:
 
 Technologies Used: JavaScript, Jasmine
 
-## Week 4 - Ruby Database Projects - Bookmark Manager & Chitter
+## <a name="Week-4">Week 4 - Ruby Projects - Bookmark Manager & Chitter</a>
 
-Build a Bookmark manager and clone of Twitter using Ruby and Postgres
+### Pair Programming Project - Bookmark Manager
 
-Projects: 
-- [Bookmark Manager](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
-- [Chitter](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
+Build a bookmark manager with a database
 
-Technologies Used: Ruby, Sinatra, PostGres, RSpec
+#### Project Details: 
+- [Bookmark Manager (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
+- Technologies Used: Ruby, RSpec, Sinatra, Postgres
+- Skills Learnt: ...
 
-## Week 3 - Ruby Local Server Projects - Battle & Rock, Paper, Scissors
+### Weekend Project - Chitter
+
+Build a clone of Twitter
+
+#### Project Details: 
+- [Chitter (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
+- Technologies Used: Ruby, RSpec, Sinatra, Postgres
+- Skills Learnt: ...
+
+<br>
+
+## <a name="Week-3">Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors</a>
 
 ### Pair Programming Project - Battle
 
