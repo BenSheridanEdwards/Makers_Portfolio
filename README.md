@@ -12,7 +12,7 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 [Week 10 - Ruby / JavaScript - Technical Testing Week](#Week-10)<br>
 [Week 11 & 12 - Unreal Game Engine / C++ - Paladin's Path (Final Project)](#Week-11/12)<br>
 
-<a name="Week-11/12"></a>
+<a name="Week-11/12"><br></a>
 
 ## Week 11 & 12 - Final Project - Paladin's Path
 
@@ -25,7 +25,7 @@ Final project where we decided to build an open-world battle game.
 - Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
 - Skills Learnt: 
 
-<a name="Week-10"> </a>
+<a name="Week-10"><br></a>
 
 ## Week 10 - Technical Testing Week
 
