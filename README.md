@@ -16,13 +16,17 @@ A table of contents to see all the projects I did whilst at Maker's Academy
 
 ## Week 11 & 12 - Final Project - Paladin's Path
 
-Project: [Paladin's Path](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.md)
+### Final Group Project - Paladin's Path 
 
-A open-world battle game where a magic paladin knight fights through the elements of fire, ice, rock facing golems hoping to reach the far-off castle.
+Final project where we decided to build an open-world battle game.
 
-Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
-
-Feature List:
+#### Project Details: 
+- [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
+- Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
+- Skills Learnt: 
+  * ...
+  * ...
+  * ...
 
 <a name="Week-10"><br></a>
 
