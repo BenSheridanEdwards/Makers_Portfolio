@@ -25,7 +25,7 @@ Final project where we decided to build an open-world battle game.
 - Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
 - Skills Learnt: 
 
-<a name="Week-10"><br></a>
+<a name="Week-10"> </a>
 
 ## Week 10 - Technical Testing Week
 
