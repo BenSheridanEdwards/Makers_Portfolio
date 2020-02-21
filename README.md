@@ -19,7 +19,7 @@ A guide to all the projects I completed whilst at Maker's Academy.
 
 ### Final Group Project - Paladin's Path 
 
-Final project where we decided to build an open-world battle game.
+Final project to build an open-world battle game using agile team methodologies.
 
 #### Project Details: 
 - [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
@@ -45,7 +45,7 @@ A week to practice coding challenges and prepare for technical interview tests.
 
 ### Group Project - Acebook
 
-Team project to build a Facebook clone
+Build a Facebook clone in an agile development team.
 
 #### Project Details: 
 - [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
