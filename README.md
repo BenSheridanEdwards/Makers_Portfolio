@@ -28,24 +28,30 @@ Feature List:
 
 ## Week 10 - Technical Testing Week
 
-A week to practice technical coding challenges and prepare for interviews once we graduate.
+### Solo Technical Review - Coding Challenges
 
-Coding Challenges: 
-- [Bank](https://github.com/BenSheridanEdwards/Makers_Bank_TechTest_Ruby)
-- [Tic-Tac-Toe](https://github.com/BenSheridanEdwards/Makers_TIcTacToe_TechTest_Ruby)
-- [Fruit Machine](https://github.com/BenSheridanEdwards/Makers_Fruit_Machine_Ruby)
+A week to practice coding challenges and prepare for technical interview tests.
 
-Technologies Used: Ruby & JavaScript
+#### Coding Challenges: 
+- [Bank - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bank_TechTest_Ruby)
+- [Tic-Tac-Toe - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_TIcTacToe_TechTest_Ruby)
+- [Fruit Machine - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Fruit_Machine_Ruby)
 
 <a name="Week-8/9"><br></a>
 
 ## Week 8 & 9 - Group Project - Acebook (Team Luckerberg)
 
-Team project to build a Facebook clone! 
+### Group Project - Acebook
 
-Project: [Acebook - Team Luckerberg](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
+Team project to build a Facebook clone
 
-Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+#### Project Details: 
+- [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
+- Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
+- Skills Learnt: 
+  * ...
+  * ...
+  * ...
 
 <a name="Week-7"><br></a>
 
