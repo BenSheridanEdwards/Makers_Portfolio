@@ -86,7 +86,7 @@ I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into Java
 - [Airport (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Airport_JS)
 - [Fizzbuzz (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_FizzBuzz_JS)
 - Technologies Used: JavaScript, Jasmine
-- Skills Learnt: How to translate projects to new languages, JavaScript TDD.
+- Skills Learnt: How to translate projects to new languages, and test-drive the development of a JavaScript Application
 
 <a name="Week-4"><br></a>
 
