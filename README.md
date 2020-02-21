@@ -105,7 +105,6 @@ Build a complete Takeaway ordering application with Twilio to deliver a confirma
 - Skills Learnt: Fundamentals of Ruby class structure and test-driven development (TDD)
 
 ---
-
 ## Week 1 - Ruby Projects - Boris Bikes & Airport
 
 ### Pair Programming Project - Boris Bikes
