@@ -24,9 +24,6 @@ Final project where we decided to build an open-world battle game.
 - [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
 - Technologies Used: [Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++
 - Skills Learnt: 
-  * ...
-  * ...
-  * ...
 
 <a name="Week-10"><br></a>
 
@@ -53,9 +50,6 @@ Team project to build a Facebook clone
 - [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
 - Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 - Skills Learnt: 
-  * ...
-  * ...
-  * ...
 
 <a name="Week-7"><br></a>
 
@@ -70,8 +64,6 @@ Build a notebook app
 - Technologies Used: JavaScript
 - Skills Learnt: 
   * How to build your own testing framework from scratch, inspired by RSpec. 
-  * ...
-  * ...
 
 <a name="Week-6"><br></a>
 
@@ -85,9 +77,6 @@ Build a clone of AirBnB
 - [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
 - Technologies Used: Ruby, Rails, Sinatra, PostGres, Travis CI, Codeclimate, Heroku
 - Skills Learnt: 
-  * ...
-  * ...
-  * ...
   
 <a name="Week-5"><br></a>
 
@@ -103,7 +92,6 @@ Build a Thermostat in the form of a single-page javascript application.
 - Skills Learnt: 
   * How to build a single page JavaScript application from scratch
   * How to use web APIs to display temperatures from around the globe.
-  * ...
 
 ### Weekend Project - Bowling
 
@@ -122,7 +110,9 @@ I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into Java
 - [Airport (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Airport_JS)
 - [Fizzbuzz (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_FizzBuzz_JS)
 - Technologies Used: JavaScript, Jasmine
-- Skills Learnt: How to translate projects to new languages, and test-drive the development of a JavaScript Application
+- Skills Learnt: 
+  * How to translate projects to new languages
+  * Test-drive the development of a JavaScript Application
 
 <a name="Week-4"><br></a>
 
