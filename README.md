@@ -11,89 +11,118 @@
 [Week 10 - Ruby / JavaScript - Technical Testing Week](#Week-10)<br>
 [Week 11 & 12 - Unreal Game Engine / C++ - Paladin's Path (Final Project)](#Week-11/12)<br>
 
-<a name="Week-11/12"></a>
 
-## Week 11 & 12 - Final Project - Paladin's Path
+<a name="Week-1"></a>
+## Week 1 - Ruby Projects - Boris Bikes & Airport
 
-### Final Group Project - Paladin's Path 
+### Pair Programming Project - Boris Bikes
 
-Final project to build an open-world battle game using agile team methodologies.
+Build a Boris Bikes application that can dock and release bikes. 
 
 #### Project Details: 
-- [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
-- Technologies Used: *[Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++*
+- [Boris Bikes (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
+- Technologies Used: *Ruby, RSpec*
 - Skills Learnt: 
-  * How to clearly plan the features we wanted to build, but be flexible in our plan in line with agile principles
-  * How to develop a program using an entirely new technology utilising the coding principles learnt whilst at Makers
-  * How to solve problems as a team, and effectively divide tasks based on priority
-  * How to gain visablity and effectively debug
-  * To use automated testing frameworks to test user behaviour
-  * To focus on the user experience and deliver the best possible product in the time given
+  * Fundamentals of Ruby class structure 
+  * Test-drive a simple program using objects and methods
+  * Pair-program with the driver-navigator style
+
+### Weekend Project - Airport
+
+Build an Airport that can manage the takeoff and landing of planes in random weather conditions
+
+#### Project Details: 
+- [Airport (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
+- Technologies Used: *Ruby, RSpec*
+- Skills Learnt: 
+  * Reinforcement of fundamentals of Ruby class structure
+  * Build a program using TDD
+  * Use an effective debugging process to gain visability
+
+
+<a name="Week-2"><br></a>
+## Week 2 - Ruby Projects - Oystercard & Takeaway
+
+### Pair Programming Project - Oystercard
+
+Build Oystercard and a complete Takeaway ordering application
+
+#### Project Details: 
+- [Oystercard (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
+- Technologies Used: *Ruby, RSpec*
+- Skills Learnt: 
+  * Apply basic object-oriented principles like encapsulation and single-responsibility.
+  * Separate classes whilst maintaining test coverage.
+  * Unit test classes in isolation using mocking
   
+### Weekend Project - Takeaway
 
-<a name="Week-10"><br></a>
-
-## Week 10 - Technical Testing Week
-
-### Solo Technical Review - Coding Challenges
-
-A week to practice coding challenges and prepare for technical interview tests.
-
-#### Coding Challenges: 
-- [Bank - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bank_TechTest_Ruby)
-- [Tic-Tac-Toe - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_TIcTacToe_TechTest_Ruby)
-- [Fruit Machine - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Fruit_Machine_Ruby)
-
-<a name="Week-8/9"><br></a>
-
-## Week 8 & 9 - Group Project - Acebook (Team Luckerberg)
-
-### Group Project - Acebook
-
-Build a Facebook clone in an agile development team.
+Build a complete Takeaway ordering application with Twilio to deliver a confirmation text message. 
 
 #### Project Details: 
-- [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
-- Technologies Used: *Ruby, Rails, Sinatra, Capybara, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
+- [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
+- Technologies Used: *Ruby, RSpec, Twilio, Travis CI*
 - Skills Learnt: 
-  * To apply the TDD process in building an application using the rails framework
-  * How to showcase our project in product meetings in terms of features, code quality, test coverage, and clearly explain our thought process and our next steps.
-  * To work effective within a team seeking to ensure high test coverage, good distribution of work, and great overall quality of code, whilst maintaining up-to-date documentation
-  * How to setup Travis CI and Heroku to deploy code to production once it's merged into the master branch
+  * How to plan my programs structure to separate concerns and ensure single responsibility
+  * How to incorporate Ruby gems
+  * The importance of testing behaviour, rather than state
 
-<a name="Week-7"><br></a>
 
-## Week 7 - JavaScript Project - Notebook
+<a name="Week-3"><br></a>
+## Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors
 
-Build a notebook app using only pure JavaScript
+### Pair Programming Project - Battle
 
-### Pair Programming Project - Notebook
+Build a pokemon-inspired battle game
 
 #### Project Details: 
-- [Notes App (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Notes_JS)
-- Technologies Used: *JavaScript, CSS, HTML*
-- Skills Learnt: 
-  * How to build your own testing framework from scratch, inspired by RSpec. 
-  * Encapsulation with the constructor and prototype pattern
-  * JavaScript asynchronous behaviour, events, and event handlers
+- [Battle (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
+- Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML*
+- Skills Learnt:
+  * How to build a simple web application
+  * How to follow an effective debugging process
+  * Basics of the web, in terms of request and response cycles between clients and servers 
 
-<a name="Week-6"><br></a>
-## Week 6 - Group Project - MakersBnB 
+### Weekend Project - Rock, Paper, Scissors
 
-### Group Project - MakersBnB
-
-Build a clone of AirBnB in an agile development team
+Build the classic Rock, Paper, Scissors game!
 
 #### Project Details: 
-- [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
-- Technologies Used: *Ruby, Rails, Sinatra, PostGres, CSS, HTML Travis CI, Codeclimate, Heroku*
+- [Rock, Paper, Scissors (GitHub Respository)](https://github.com/BenSheridanEdwards/rps-challenge)
+- Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML, Travis CI*
 - Skills Learnt: 
-  * Turning a specification into user stories
-  * How to focus on delivering a MVP first
-  * To work effectively in an agile development team with daily stand-ups and retrospectives
-  * To manage my git workflow with git branches, pull requests, code reviews, and merging onto the master branch as a team
-  * Give and receive meaningful feedback during each code review
-  
+  * The MVC pattern
+  * Testing user interaction and visual output
+  * How to build a game that can be played by two players
+
+
+<a name="Week-4"><br></a>
+## Week 4 - Ruby Projects - Bookmark Manager & Chitter
+
+### Pair Programming Project - Bookmark Manager
+
+Build a bookmark manager with a database
+
+#### Project Details: 
+- [Bookmark Manager (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
+- Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
+- Skills Learnt:
+  * Agile development processes
+  * How to build a simple web application with a database
+  * Debug database applications
+
+### Weekend Project - Chitter
+
+Build a clone of Twitter
+
+#### Project Details: 
+- [Chitter (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
+- Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML, Travis CI*
+- Skills Learnt: 
+  * How to implement a object relational mapper as a database interface
+  * Implementing user sign up, sign in, and authentication using bCrypt
+
+
 <a name="Week-5"><br></a>
 ## Week 5 - JavaScript Project - Thermostat & Bowling 
 
@@ -132,109 +161,90 @@ I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into Java
   * How to translate projects to new languages
   * Test-drive the development of a JavaScript Application from Ruby
 
-<a name="Week-4"><br></a>
-## Week 4 - Ruby Projects - Bookmark Manager & Chitter
 
-### Pair Programming Project - Bookmark Manager
+<a name="Week-6"><br></a>
+## Week 6 - Group Project - MakersBnB 
 
-Build a bookmark manager with a database
+### Group Project - MakersBnB
 
-#### Project Details: 
-- [Bookmark Manager (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bookmark_Manager_Ruby)
-- Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML*
-- Skills Learnt:
-  * Agile development processes
-  * How to build a simple web application with a database
-  * Debug database applications
-
-### Weekend Project - Chitter
-
-Build a clone of Twitter
+Build a clone of AirBnB in an agile development team
 
 #### Project Details: 
-- [Chitter (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Chitter_Ruby)
-- Technologies Used: *Ruby, RSpec, Sinatra, Postgres, CSS, HTML, Travis CI*
+- [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
+- Technologies Used: *Ruby, Rails, Sinatra, PostGres, CSS, HTML Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
-  * How to implement a object relational mapper as a database interface
-  * Implementing user sign up, sign in, and authentication using bCrypt
+  * Turning a specification into user stories
+  * How to focus on delivering a MVP first
+  * To work effectively in an agile development team with daily stand-ups and retrospectives
+  * To manage my git workflow with git branches, pull requests, code reviews, and merging onto the master branch as a team
+  * Give and receive meaningful feedback during each code review
   
-<a name="Week-3"><br></a>
-## Week 3 - Ruby Projects - Battle & Rock, Paper, Scissors
 
-### Pair Programming Project - Battle
+<a name="Week-7"><br></a>
 
-Build a pokemon-inspired battle game
+## Week 7 - JavaScript Project - Notebook
 
-#### Project Details: 
-- [Battle (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Battle_Challenge)
-- Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML*
-- Skills Learnt:
-  * How to build a simple web application
-  * How to follow an effective debugging process
-  * Basics of the web, in terms of request and response cycles between clients and servers 
+Build a notebook app using only pure JavaScript
 
-### Weekend Project - Rock, Paper, Scissors
-
-Build the classic Rock, Paper, Scissors game!
+### Pair Programming Project - Notebook
 
 #### Project Details: 
-- [Rock, Paper, Scissors (GitHub Respository)](https://github.com/BenSheridanEdwards/rps-challenge)
-- Technologies Used: *Ruby, RSpec, Sinatra, CSS, HTML, Travis CI*
+- [Notes App (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Notes_JS)
+- Technologies Used: *JavaScript, CSS, HTML*
 - Skills Learnt: 
-  * The MVC pattern
-  * Testing user interaction and visual output
-  * How to build a game that can be played by two players
+  * How to build your own testing framework from scratch, inspired by RSpec. 
+  * Encapsulation with the constructor and prototype pattern
+  * JavaScript asynchronous behaviour, events, and event handlers
 
-<a name="Week-2"><br></a>
-## Week 2 - Ruby Projects - Oystercard & Takeaway
 
-### Pair Programming Project - Oystercard
+<a name="Week-8/9"><br></a>
 
-Build Oystercard and a complete Takeaway ordering application
+## Week 8 & 9 - Group Project - Acebook (Team Luckerberg)
 
-#### Project Details: 
-- [Oystercard (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Oystercard_Ruby)
-- Technologies Used: *Ruby, RSpec*
-- Skills Learnt: 
-  * Apply basic object-oriented principles like encapsulation and single-responsibility.
-  * Separate classes whilst maintaining test coverage.
-  * Unit test classes in isolation using mocking
-  
-### Weekend Project - Takeaway
+### Group Project - Acebook
 
-Build a complete Takeaway ordering application with Twilio to deliver a confirmation text message. 
+Build a Facebook clone in an agile development team.
 
 #### Project Details: 
-- [Takeaway (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Takeaway_Ruby)
-- Technologies Used: *Ruby, RSpec, Twilio, Travis CI*
+- [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
+- Technologies Used: *Ruby, Rails, Sinatra, Capybara, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
-  * How to plan my programs structure to separate concerns and ensure single responsibility
-  * How to incorporate Ruby gems
-  * The importance of testing behaviour, rather than state
+  * To apply the TDD process in building an application using the rails framework
+  * How to showcase our project in product meetings in terms of features, code quality, test coverage, and clearly explain our thought process and our next steps.
+  * To work effective within a team seeking to ensure high test coverage, good distribution of work, and great overall quality of code, whilst maintaining up-to-date documentation
+  * How to setup Travis CI and Heroku to deploy code to production once it's merged into the master branch
 
-<a name="Week-1"><br></a>
-## Week 1 - Ruby Projects - Boris Bikes & Airport
 
-### Pair Programming Project - Boris Bikes
+<a name="Week-10"><br></a>
 
-Build a Boris Bikes application that can dock and release bikes. 
+## Week 10 - Technical Testing Week
+
+### Solo Technical Review - Coding Challenges
+
+A week to practice coding challenges and prepare for technical interview tests.
+
+#### Coding Challenges: 
+- [Bank - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Bank_TechTest_Ruby)
+- [Tic-Tac-Toe - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_TIcTacToe_TechTest_Ruby)
+- [Fruit Machine - Ruby Challenge (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Fruit_Machine_Ruby)
+
+
+<a name="Week-11/12"><br></a>
+
+## Week 11 & 12 - Final Project - Paladin's Path
+
+### Final Group Project - Paladin's Path 
+
+Final project to build an open-world battle game using agile team methodologies.
 
 #### Project Details: 
-- [Boris Bikes (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Boris_Bikes_Ruby)
-- Technologies Used: *Ruby, RSpec*
+- [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path/blob/MVPBattle/README.mdd)
+- Technologies Used: *[Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++*
 - Skills Learnt: 
-  * Fundamentals of Ruby class structure 
-  * Test-drive a simple program using objects and methods
-  * Pair-program with the driver-navigator style
-
-### Weekend Project - Airport
-
-Build an Airport that can manage the takeoff and landing of planes in random weather conditions
-
-#### Project Details: 
-- [Airport (GitHub Repository)](https://github.com/BenSheridanEdwards/Makers_Airport_Ruby)
-- Technologies Used: *Ruby, RSpec*
-- Skills Learnt: 
-  * Reinforcement of fundamentals of Ruby class structure
-  * Build a program using TDD
-  * Use an effective debugging process to gain visability
+  * How to clearly plan the features we wanted to build, but be flexible in our plan in line with agile principles
+  * How to develop a program using an entirely new technology utilising the coding principles learnt whilst at Makers
+  * How to solve problems as a team, and effectively divide tasks based on priority
+  * How to gain visablity and effectively debug
+  * To use automated testing frameworks to test user behaviour
+  * To focus on the user experience and deliver the best possible product in the time given
+ 
