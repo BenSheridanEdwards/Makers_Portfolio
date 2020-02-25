@@ -179,6 +179,9 @@ Build a clone of AirBnB in an agile development team
   * To manage my git workflow with git branches, pull requests, code reviews, and merging onto the master branch as a team
   * Give and receive meaningful feedback during each code review
   
+<br>
+
+![](https://github.com/BenSheridanEdwards/Makers_Project_Guide/blob/master/MakersBnb-Collage.jpeg)
 
 <a name="Week-7"><br></a>
 
