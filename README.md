@@ -246,7 +246,7 @@ A week to practice coding challenges and prepare for technical interview tests.
 Final project to build an open-world battle game using agile team methodologies.
 
 #### Project Details: 
-- [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Final_Project_Paladins_Path)
+- [Paladin's Path (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Paladins_Path)
 - Technologies Used: *[Unreal Game Engine](https://www.unrealengine.com/en-US/) / C++*
 - Skills Learnt: 
   * How to clearly plan the features we wanted to build, but be flexible in our plan in line with agile principles
