@@ -256,3 +256,4 @@ Final project to build an open-world battle game using agile team methodologies.
   * To use automated testing frameworks to test user behaviour
   * To focus on the user experience and deliver the best possible product in the time given
  
+![](https://github.com/BenSheridanEdwards/Makers_Paladins_Path/blob/MVPBattle/Gallery%20(Images)/PaladinsPath-Collage.jpeg)
