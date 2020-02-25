@@ -5,7 +5,7 @@
 [Week 3 - Ruby - Battle & Rock, Paper, Scissors](#Week-3)<br>
 [Week 4 - Ruby - Bookmark Manager & Chitter](#Week-4)<br>
 [Week 5 - JavaScript  - Thermostat & Bowling](#Week-5)<br>
-[Week 6 - Ruby - MakersBnB (Group Project)](#Week-6)<br>
+[Week 6 - Ruby & JavaScript - MakersBnB (Group Project)](#Week-6)<br>
 [Week 7 - JavaScript  - Notebook](#Week-7)<br>
 [Week 8 & 9 - Ruby / JavaScript  - Acebook (Group Project)](#Week-8/9)<br>
 [Week 10 - Ruby / JavaScript - Technical Testing Week](#Week-10)<br>
