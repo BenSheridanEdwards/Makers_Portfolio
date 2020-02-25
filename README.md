@@ -181,7 +181,7 @@ Build a clone of AirBnB in an agile development team
   
 <br>
 
-![](https://github.com/BenSheridanEdwards/Makers_Project_Guide/blob/master/MakersBnb-Collage.jpeg)
+<a href="https://github.com/BenSheridanEdwards/Makers_MakersBnb">![](https://github.com/BenSheridanEdwards/Makers_Project_Guide/blob/master/MakersBnb-Collage.jpeg)</a>
 
 <a name="Week-7"><br></a>
 
