@@ -209,7 +209,7 @@ Build a notebook app using only pure JavaScript
 Build a Facebook clone in an agile development team.
 
 #### Project Details: 
-- [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook_Team_Luckerberg)
+- [Acebook - Team Luckerberg (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_Acebook)
 - Technologies Used: *Ruby, Rails, Sinatra, Capybara, PostGres, CSS, HTML, Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
   * To apply the TDD process in building an application using the rails framework
@@ -217,6 +217,11 @@ Build a Facebook clone in an agile development team.
   * To work effective within a team seeking to ensure high test coverage, good distribution of work, and great overall quality of code, whilst maintaining up-to-date documentation
   * How to setup Travis CI and Heroku to deploy code to production once it's merged into the master branch
 
+
+
+<br>
+
+<a href="https://github.com/BenSheridanEdwards/Makers_Acebook">![](https://github.com/BenSheridanEdwards/Makers_Project_Guide/blob/master/Acebook-Collage.jpeg)</a>
 
 <a name="Week-10"><br></a>
 
