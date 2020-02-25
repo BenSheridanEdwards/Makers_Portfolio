@@ -170,8 +170,8 @@ I also translated two of my earlier Ruby projects, Airport & Fizzbuzz, into Java
 Build a clone of AirBnB in an agile development team
 
 #### Project Details: 
-- [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb_Group_Project)
-- Technologies Used: *Ruby, Rails, Sinatra, PostGres, CSS, HTML Travis CI, Codeclimate, Heroku*
+- [MakersBnB (GitHub Respository)](https://github.com/BenSheridanEdwards/Makers_MakersBnb)
+- Technologies Used: *Ruby, JavaScript, Rails, Sinatra, PostGres, CSS, HTML Travis CI, Codeclimate, Heroku*
 - Skills Learnt: 
   * Turning a specification into user stories
   * How to focus on delivering a MVP first
