@@ -257,5 +257,5 @@ Final project to build an open-world battle game using agile team methodologies.
   * To focus on the user experience and deliver the best possible product in the time given
  
 <a href="https://youtu.be/R4Vh61J5KaI"><div align="center"><img src="https://github.com/BenSheridanEdwards/Makers_Paladins_Path/blob/MVPBattle/Gallery(Gifs)/PaladinsPath-CinematicView-1.gif"/></div></a>
-<p align="center"><b><i>Click to see the full one-minute cinematic trailer on [YouTube](https://youtu.be/R4Vh61J5KaI)</i></b></p>
+<p align="center"><b><i>Click to see the full one-minute cinematic trailer on</i></b>[YouTube](https://youtu.be/R4Vh61J5KaI)</p>
 
