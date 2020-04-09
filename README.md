@@ -1,4 +1,4 @@
-# Makers Projects Guide - Ben Sheridan-Edwards
+# Makers Portfolio - Ben Sheridan-Edwards
 
 [Week 1 - Ruby - Boris Bikes & Airport](#Week-1)<br>
 [Week 2 - Ruby - Oystercard & Takeaway](#Week-2)<br>
